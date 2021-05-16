@@ -2065,7 +2065,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/vikingswap",
+        href: "https://twitter.com/boarswap",
     },
 ];
 var MENU_HEIGHT = 64;
