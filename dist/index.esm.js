@@ -1993,11 +1993,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.vikingswap.finance",
+                href: "https://exchange.boarswap.xyz/",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.vikingswap.finance/#/pool",
+                href: "https://exchange.boarswap.xyz/#pool",
             },
         ],
     },
