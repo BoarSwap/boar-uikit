@@ -440,6 +440,12 @@ var Icon$z = function (props) {
         React__default['default'].createElement("ellipse", { cx: "21.2056", cy: "19.9172", rx: "1.76711", ry: "2.59786", fill: "white" })));
 };
 
+var Icon$$ = function (props) {
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 28 28" }, props),
+        React__default['default'].createElement("path", { d: "M12,12H19C18.47,16.11 15.72,19.78 12,20.92V12H5V6.3L12,3.19M12,1L3,5V11C3,16.55 6.84,21.73 12,23C17.16,21.73 21,16.55 21,11V5L12,1Z" })));
+};
+
+
 var Icon$A = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 80 80" }, props),
         React__default['default'].createElement("g", { clipPath: "url(#clip0)" },
@@ -1963,7 +1969,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     TradeIcon: Icon$W,
     TwitterIcon: Icon$X,
     HelmetIcon: Icon$Y,
-	ShieldIcon: Icon$Z
+	ShieldIcon: Icon$$
 });
 
 var MenuButton = styled__default['default'](Button)(templateObject_1$x || (templateObject_1$x = __makeTemplateObject(["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"], ["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"])), function (_a) {
