@@ -1962,7 +1962,8 @@ var IconModule = /*#__PURE__*/Object.freeze({
     TicketIcon: Icon$V,
     TradeIcon: Icon$W,
     TwitterIcon: Icon$X,
-    HelmetIcon: Icon$Y
+    HelmetIcon: Icon$Y,
+	ShieldIcon: Icon$Z
 });
 
 var MenuButton = styled__default['default'](Button)(templateObject_1$x || (templateObject_1$x = __makeTemplateObject(["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"], ["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"])), function (_a) {
